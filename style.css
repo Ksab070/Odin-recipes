@@ -1,11 +1,23 @@
+* {
+    background-color: wheat;
+}
+
 img {
     
 }
 
 h1 {
-    font-size: 50px;
+    font-size: 80px;
+    height: 40px;
     font-family: Garamond, 'Times New Roman';
     text-align: left;
-    font-weight: 100;
+    font-weight: 700;
+    color: #5e7286;
+}
 
+h2 a {
+    color: blueviolet;
+    text-decoration: none;
+    text-align: left;
+    font-weight: 100;
 }
